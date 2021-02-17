@@ -61,8 +61,9 @@
 - [Languages and Tools](##Languages and Tools)
 -->
 ## Hi there 👋, I'm wangxl12!
-
-
+## recent work
+![wangxl12](https://github.com/wangxl12/wangxl12)
+![DataStructure_Algorithm](https://github.com/wangxl12/DataStructure_Algorithm)
 <!--
 **wangxl12/wangxl12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
