@@ -64,20 +64,22 @@
 ## recent work
 [wangxl12](https://github.com/wangxl12/wangxl12)
 [DataStructure_Algorithms](https://github.com/wangxl12/DataStructure_Algorithms)
-
+<p align="center">
 <b>
 <image src='https://github-readme-stats.vercel.app/api?username=wangxl12&show_icons=true&theme=merko' height= 141></image>
 </b>
 <b>
 <image src='https://github-readme-stats.vercel.app/api/top-langs/?username=wangxl12&layout=compact&theme=merko' height= 141></image>
 </b>
+</p>
+<p align="center">
 <b>
-<image src='https://github-readme-stats.vercel.app/api/wakatime?username=wangxl12&theme=merko' height= 141 width=600></image>
+<image src='https://github-readme-stats.vercel.app/api/wakatime?username=wangxl12&theme=merko' height= 141></image>
 </b>
-
-
+</p>
+<p align="center">
 <image src='https://github-profile-trophy.vercel.app/?username=wangxl12&theme=monokai'></image>
-
+</p>
 <!--
 **wangxl12/wangxl12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -104,6 +106,7 @@ Here are some ideas to get you started:
 </a>
 
 ## Languages and Tools:
+
 <code><img height="40" src="https://raw.githubusercontent.com/wangxl12/wangxl12/main/asset/jupyter-notebook.png">
 <code><img height="40" src="https://raw.githubusercontent.com/wangxl12/wangxl12/main/asset/github.png">
 <code><img height="40" src="https://raw.githubusercontent.com/wangxl12/wangxl12/main/asset/python.png">
