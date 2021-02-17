@@ -62,17 +62,17 @@
 -->
 ## Hi there 👋, I'm wangxl12!
 ## recent work
-![wangxl12](https://github.com/wangxl12/wangxl12)
-![DataStructure_Algorithms](https://github.com/wangxl12/DataStructure_Algorithms)
+[wangxl12](https://github.com/wangxl12/wangxl12)
+[DataStructure_Algorithms](https://github.com/wangxl12/DataStructure_Algorithms)
 
 <b>
-<image src='https://github-readme-stats.vercel.app/api?username=wangxl12&show_icons=true&theme=onedark' height= 141></image>
+<image src='https://github-readme-stats.vercel.app/api?username=wangxl12&show_icons=true&theme=merko' height= 141></image>
 </b>
 <b>
-<image src='https://github-readme-stats.vercel.app/api/top-langs/?username=wangxl12&layout=compact&theme=gruvbox' height= 141></image>
+<image src='https://github-readme-stats.vercel.app/api/top-langs/?username=wangxl12&layout=compact&theme=merko' height= 141></image>
 </b>
 
-<image src='https://github-profile-trophy.vercel.app/?username=wangxl12&theme=monokai'></image>
+<image src='https://github-profile-trophy.vercel.app/?username=wangxl12&theme=merko'></image>
 
 <!--
 **wangxl12/wangxl12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
