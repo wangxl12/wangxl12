@@ -72,6 +72,11 @@
 <image src='https://github-readme-stats.vercel.app/api/top-langs/?username=wangxl12&layout=compact&theme=merko' height= 141></image>
 </b>
 
+<b>
+<image src='https://github-readme-stats.vercel.app/api/top-langs/?username=wangxl12&layout=compact&theme=merko' height= 141></image>
+</b>
+
+![wangxl12's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wangxl12&theme=merko)
 <image src='https://github-profile-trophy.vercel.app/?username=wangxl12&theme=merko'></image>
 
 <!--
@@ -88,10 +93,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wangxl12&hide=issues,prs&count_private=true&show_icons=true&theme=merko)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wangxl12&count_private=true&show_icons=true&theme=merko&layout=compact)
-![wangxl12's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wangxl12&theme=merko)
+
+
 
 <a href="https://github.com/wangxl12/DataStructure_Algorithms">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wangxl12&repo=DataStructure_Algorithms&count_private=true&show_icons=true&theme=merko&show_owner=True" />
