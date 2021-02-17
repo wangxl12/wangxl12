@@ -65,6 +65,29 @@
 [wangxl12](https://github.com/wangxl12/wangxl12)
 
 [DataStructure_Algorithms](https://github.com/wangxl12/DataStructure_Algorithms)
+
+[halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go)
+
+[wangzheng0822/algo](https://github.com/wangzheng0822/algo)
+
+[wangzhiwubigdata/God-Of-BigData](https://github.com/wangzhiwubigdata/God-Of-BigData)
+
+[DawnGuoDev/Algorithm](https://github.com/DawnGuoDev/Algorithm)
+
+[labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm)
+
+[evawyf/CS-Notes](https://github.com/evawyf/CS-Notes)
+
+[evawyf/awesome-cs-books](https://github.com/evawyf/awesome-cs-books)
+
+[wangxl12/python_interview_question](https://github.com/wangxl12/python_interview_question)
+
+[wangxl12/Interview](https://github.com/wangxl12/Interview)
+
+[wangxl12/awesome-job](https://github.com/wangxl12/awesome-job)
+
+[bubbliiiing/Semantic-Segmentation](https://github.com/bubbliiiing/Semantic-Segmentation)
+
 <p align="center">
 <b>
 <image src='https://github-readme-stats.vercel.app/api?username=wangxl12&show_icons=true&theme=merko' height= 141></image>
@@ -81,6 +104,7 @@
 <p align="center">
 <image src='https://github-profile-trophy.vercel.app/?username=wangxl12&theme=monokai'></image>
 </p>
+<!--
 <p align="center">
 <a href="https://github.com/wangxl12/DataStructure_Algorithms">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wangxl12&repo=DataStructure_Algorithms&count_private=true&show_icons=true&theme=merko&show_owner=True" />
@@ -89,14 +113,15 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wangxl12&repo=Panoramic-Segmentation-On-Traffic&count_private=true&show_icons=true&theme=merko&show_owner=True" />
 </a>
 </p>
-
+-->
+<!--
 ## Languages and Tools:
-
 <code><img height="40" src="https://raw.githubusercontent.com/wangxl12/wangxl12/main/asset/jupyter-notebook.png">
 <code><img height="40" src="https://raw.githubusercontent.com/wangxl12/wangxl12/main/asset/github.png">
 <code><img height="40" src="https://raw.githubusercontent.com/wangxl12/wangxl12/main/asset/python.png">
 <code><img height="40" src="https://raw.githubusercontent.com/wangxl12/wangxl12/main/asset/vim.png">
 <code><img height="40" src="https://raw.githubusercontent.com/wangxl12/wangxl12/main/asset/visual-studio-code.png">
+-->
 <!--
 **wangxl12/wangxl12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
