@@ -26,3 +26,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/wangxl12/Panoramic-Segmentation-On-Traffic">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wangxl12&repo=Panoramic-Segmentation-On-Traffic&count_private=true&show_icons=true&theme=merko&show_owner=True" />
 </a>
+
+## Languages and Tools:
+<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/jupyter-notebook.png">
