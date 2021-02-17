@@ -63,6 +63,7 @@
 ## Hi there 👋, I'm wangxl12!
 ## recent work
 [wangxl12](https://github.com/wangxl12/wangxl12)
+
 [DataStructure_Algorithms](https://github.com/wangxl12/DataStructure_Algorithms)
 <p align="center">
 <b>
@@ -88,7 +89,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wangxl12&repo=Panoramic-Segmentation-On-Traffic&count_private=true&show_icons=true&theme=merko&show_owner=True" />
 </a>
 </p>
+
 ## Languages and Tools:
+
 <code><img height="40" src="https://raw.githubusercontent.com/wangxl12/wangxl12/main/asset/jupyter-notebook.png">
 <code><img height="40" src="https://raw.githubusercontent.com/wangxl12/wangxl12/main/asset/github.png">
 <code><img height="40" src="https://raw.githubusercontent.com/wangxl12/wangxl12/main/asset/python.png">
