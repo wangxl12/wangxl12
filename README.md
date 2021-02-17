@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wangxl12&hide=issues,prs&count_private=true&show_icons=true&theme=merko)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wangxl12&repo=github-readme-stats)]
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wangxl12&repo=DataStructure_Algorithms)
