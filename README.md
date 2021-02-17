@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 </a>
 
 ## Languages and Tools:
-<img height="40" src="https://raw.githubusercontent.com/wangxl12/wangxl12/main/asset/jupyter-notebook.png">
+<code><img height="40" src="https://raw.githubusercontent.com/wangxl12/wangxl12/main/asset/jupyter-notebook.png">
 <code><img height="40" src="https://raw.githubusercontent.com/wangxl12/wangxl12/main/asset/github.png">
 <code><img height="40" src="https://raw.githubusercontent.com/wangxl12/wangxl12/main/asset/python.png">
 <code><img height="40" src="https://raw.githubusercontent.com/wangxl12/wangxl12/main/asset/vim.png">
