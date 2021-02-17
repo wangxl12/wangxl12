@@ -57,11 +57,9 @@
   </p>
 </p>
 <p align="center">Loved the project? Please consider <a href="https://www.paypal.me/anuraghazra">donating</a> to help it improve!
--->
 ## Features
-
 - [Languages and Tools](##Languages and Tools)
-- 
+-->
 ## Hi there 👋, I'm wangxl12!
 
 
