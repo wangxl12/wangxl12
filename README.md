@@ -73,11 +73,11 @@
 </b>
 
 <b>
-<image src='https://github-readme-stats.vercel.app/api/top-langs/?username=wangxl12&layout=compact&theme=merko' height= 141></image>
+<image src='https://github-readme-stats.vercel.app/api/wakatime?username=wangxl12&theme=merko' height= 141></image>
 </b>
 
-![wangxl12's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wangxl12&theme=merko)
-<image src='https://github-profile-trophy.vercel.app/?username=wangxl12&theme=merko'></image>
+
+<image src='https://github-profile-trophy.vercel.app/?username=wangxl12&theme=monokai'></image>
 
 <!--
 **wangxl12/wangxl12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
