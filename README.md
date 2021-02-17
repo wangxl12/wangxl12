@@ -72,7 +72,7 @@
 <image src='https://github-readme-stats.vercel.app/api/top-langs/?username=wangxl12&layout=compact&theme=merko' height= 141></image>
 </b>
 <b>
-<image src='https://github-readme-stats.vercel.app/api/wakatime?username=wangxl12&theme=merko' height= 141 width=200></image>
+<image src='https://github-readme-stats.vercel.app/api/wakatime?username=wangxl12&theme=merko' height= 141></image>
 </b>
 
 
