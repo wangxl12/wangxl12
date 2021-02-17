@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wangxl12&repo=Panoramic-Segmentation-On-Traffic&count_private=true&show_icons=true&theme=merko&show_owner=True)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wangxl12&count_private=true&show_icons=true&theme=merko&layout=compact)
-![wangxl12's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wangxl12&layout=compact)
+![wangxl12's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wangxl12)
