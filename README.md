@@ -62,6 +62,12 @@
 -->
 ## Hi there 👋, I'm wangxl12!
 ## recent work
+|    TYPE   |ASCII                          |HTML
+|----------------|-------------------------------|-----------------------------|
+|Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
+|Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
+|Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
+
 [wangxl12](https://github.com/wangxl12/wangxl12)
 
 [DataStructure_Algorithms](https://github.com/wangxl12/DataStructure_Algorithms)
@@ -101,9 +107,9 @@
 <image src='https://github-readme-stats.vercel.app/api/wakatime?username=wangxl12&theme=merko' height= 141></image>
 </b>
 </p>
-<p align="center">
+<!-- <p align="center">
 <image src='https://github-profile-trophy.vercel.app/?username=wangxl12&theme=monokai'></image>
-</p>
+</p> -->
 <!--
 <p align="center">
 <a href="https://github.com/wangxl12/DataStructure_Algorithms">
