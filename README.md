@@ -62,37 +62,11 @@
 -->
 ## Hi there 👋, I'm wangxl12!
 ## recent work
-|[wangxl12](https://github.com/wangxl12/wangxl12)|[DataStructure_Algorithms](https://github.com/wangxl12/DataStructure_Algorithms)|[halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go)
-|----------------|-------------------------------|-----------------------------|
-|Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
-|Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
-|Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
-
-
-
-
-
-
-
-[wangzheng0822/algo](https://github.com/wangzheng0822/algo)
-
-[wangzhiwubigdata/God-Of-BigData](https://github.com/wangzhiwubigdata/God-Of-BigData)
-
-[DawnGuoDev/Algorithm](https://github.com/DawnGuoDev/Algorithm)
-
-[labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm)
-
-[evawyf/CS-Notes](https://github.com/evawyf/CS-Notes)
-
-[evawyf/awesome-cs-books](https://github.com/evawyf/awesome-cs-books)
-
-[wangxl12/python_interview_question](https://github.com/wangxl12/python_interview_question)
-
-[wangxl12/Interview](https://github.com/wangxl12/Interview)
-
-[wangxl12/awesome-job](https://github.com/wangxl12/awesome-job)
-
-[bubbliiiing/Semantic-Segmentation](https://github.com/bubbliiiing/Semantic-Segmentation)
+|[wangxl12](https://github.com/wangxl12/wangxl12)|[DataStructure_Algorithms](https://github.com/wangxl12/DataStructure_Algorithms)|[halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go)|[wangzheng0822/algo](https://github.com/wangzheng0822/algo)
+|----------------|-------------------------------|-----------------------------|-----------------------------|
+|[wangzhiwubigdata/God-Of-BigData](https://github.com/wangzhiwubigdata/God-Of-BigData)|[DawnGuoDev/Algorithm](https://github.com/DawnGuoDev/Algorithm)|[labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm)|[evawyf/CS-Notes](https://github.com/evawyf/CS-Notes)|
+|[evawyf/awesome-cs-books](https://github.com/evawyf/awesome-cs-books)|[wangxl12/python_interview_question](https://github.com/wangxl12/python_interview_question)|[wangxl12/Interview](https://github.com/wangxl12/Interview)|[wangxl12/awesome-job](https://github.com/wangxl12/awesome-job)|
+|[bubbliiiing/Semantic-Segmentation](https://github.com/bubbliiiing/Semantic-Segmentation)|ready to add|ready to add|ready to add|
 
 <p align="center">
 <b>
