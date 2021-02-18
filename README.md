@@ -62,17 +62,17 @@
 -->
 ## Hi there 👋, I'm wangxl12!
 ## recent work
-|    TYPE   |ASCII                          |HTML
+|[wangxl12](https://github.com/wangxl12/wangxl12)|[DataStructure_Algorithms](https://github.com/wangxl12/DataStructure_Algorithms)|[halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go)
 |----------------|-------------------------------|-----------------------------|
 |Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
 |Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
 |Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
 
-[wangxl12](https://github.com/wangxl12/wangxl12)
 
-[DataStructure_Algorithms](https://github.com/wangxl12/DataStructure_Algorithms)
 
-[halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go)
+
+
+
 
 [wangzheng0822/algo](https://github.com/wangzheng0822/algo)
 
