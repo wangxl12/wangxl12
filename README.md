@@ -76,11 +76,11 @@
 <image src='https://github-readme-stats.vercel.app/api/top-langs/?username=wangxl12&layout=compact&theme=merko' height= 141></image>
 </b>
 </p>
-<p align="center">
+<!-- <p align="center">
 <b>
 <image src='https://github-readme-stats.vercel.app/api/wakatime?username=wangxl12&theme=merko' height= 141></image>
 </b>
-</p>
+</p> -->
 <!-- <p align="center">
 <image src='https://github-profile-trophy.vercel.app/?username=wangxl12&theme=monokai'></image>
 </p> -->
