@@ -66,7 +66,7 @@
 |----------------|-------------------------------|-----------------------------|-----------------------------|
 |[wangzhiwubigdata/God-Of-BigData](https://github.com/wangzhiwubigdata/God-Of-BigData)|[DawnGuoDev/Algorithm](https://github.com/DawnGuoDev/Algorithm)|[labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm)|[evawyf/CS-Notes](https://github.com/evawyf/CS-Notes)|
 |[evawyf/awesome-cs-books](https://github.com/evawyf/awesome-cs-books)|[wangxl12/python_interview_question](https://github.com/wangxl12/python_interview_question)|[wangxl12/Interview](https://github.com/wangxl12/Interview)|[wangxl12/awesome-job](https://github.com/wangxl12/awesome-job)|
-|[bubbliiiing/Semantic-Segmentation](https://github.com/bubbliiiing/Semantic-Segmentation)|ready to add|ready to add|ready to add|
+|[bubbliiiing/Semantic-Segmentation](https://github.com/bubbliiiing/Semantic-Segmentation)|[Method-of-optimization](https://github.com/wangxl12/Method-of-optimization)|[OnlineTest-System](https://github.com/wangxl12/OnlineTest-System)|ready to add|
 
 <p align="center">
 <b>
